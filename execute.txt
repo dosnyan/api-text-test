@@ -1,0 +1,11 @@
+{
+  "creationDate": "2024-04-26",
+  "creationTime": "01-39-51",
+  "comments": "",
+  "command": "shutdown",
+  "args": {
+    "first": "shutdown-force",
+    "second": "1",
+    "third": ""
+  }
+}
